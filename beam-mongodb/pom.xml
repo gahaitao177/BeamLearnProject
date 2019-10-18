@@ -13,7 +13,7 @@
 
     <properties>
         <beam.version>2.13.0</beam.version>
-        <activemq.version>5.13.3</activemq.version>
+        <activemq.version>5.15.10</activemq.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
