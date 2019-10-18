@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="beam-jdbc" />
+        <module name="beam-hdfs" />
+        <module name="beam-practice" />
+        <module name="beam-clickhouse" />
+        <module name="beam-elasticsearch" />
+        <module name="beam-s3" />
+        <module name="beam-mongodb" />
+        <module name="beam-kinesis" />
+        <module name="beam-kafka" />
+        <module name="beam-pipeline" />
+        <module name="beam-hbase" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
